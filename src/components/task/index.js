@@ -1,3 +1,3 @@
-import ToDoListItem from "./task";
+import ToDoListItem from './task'
 
-export default ToDoListItem;
+export default ToDoListItem
